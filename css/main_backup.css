@@ -276,7 +276,7 @@ hr {
    MAIN LAYOUT
    ========================================================================== */
 .wrapper {
-  margin: 0 auto;
+  margin: 0px auto;
   width: 960px;
   position: relative;
 }
@@ -337,8 +337,8 @@ nav {
   text-align: center;
 }
 .logo-name {
-  margin-bottom: 193px;
-  font-size: 6em;
+  margin-bottom: 0;
+  font-size: 5em;
   letter-spacing: -0.04em;
 }
 .tagline {
@@ -730,7 +730,6 @@ nav {
 }
 .tagline {
   font-weight: normal;
-  font-size: x-large;
 }
 .call-action-area .price {
   color: #fddd52;
